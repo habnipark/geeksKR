@@ -4,7 +4,7 @@
  <title>Geeks' things Korea</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-16T09:42:52+09:00</updated>
+ <updated>2019-12-16T14:03:13+09:00</updated>
  <author>
    <name>habni</name>
    <uri>https://geeksthingskorea.com</uri>
@@ -15,7 +15,7 @@
 
  <entry>
    <title>Welcome to GEEKS' THINGS KOREA</title>
-   <link href="http://localhost:4000/description-of-geeks-things-korea/"/>
+   <link href="http://localhost:4000/description-of-geeks-things-korea-2/"/>
    <id>http://localhost:4000/post02</id>
    <updated>2019-12-16T00:00:00+09:00</updated>
    <content type="html">&lt;h3 id=&quot;lets-dig-into-a-common-things-to-do-in-seoul&quot;&gt;Let’s dig into a common ‘things to do’ in SEOUL&lt;/h3&gt; &lt;p&gt;Since Seoul is the biggest city which is capital city in South Korea, so Seoul is always one of ‘must go places’ for foreigner tourists. so that’s why there are so many tourists in Seoul.&lt;/p&gt; &lt;p&gt;Here is a common...</content>
@@ -25,7 +25,7 @@
 
  <entry>
    <title>Welcome to GEEKS' THINGS KOREA</title>
-   <link href="http://localhost:4000/description-of-geeks-things-korea/"/>
+   <link href="http://localhost:4000/description-of-geeks-things-korea-1/"/>
    <id>http://localhost:4000/post01</id>
    <updated>2019-12-11T16:00:00+09:00</updated>
    <content type="html">&lt;h3 id=&quot;kcicking-it-like-a-geek-in-korea&quot;&gt;Kcicking it like a geek in Korea!&lt;/h3&gt; &lt;h4 id=&quot;about-geeeks-things-korea&quot;&gt;About “Geeeks’ things Korea”&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;/img/post/01/firstpost.png&quot; alt=&quot;mainpic&quot; /&gt;&lt;/p&gt; &lt;p&gt;More and more tourists are coming to Korea nowadays. South Korea is small but there are so many various things to do. But most of tourists are just going and hanging out in...</content>
