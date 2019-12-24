@@ -4,12 +4,22 @@
  <title>Geeks' things Korea</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-24T15:43:34+09:00</updated>
+ <updated>2019-12-24T22:29:20+09:00</updated>
  <author>
    <name>habni</name>
    <uri>https://geeksthingskorea.com</uri>
    <email>habnipark@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>How to make K-food? ‘Kimchi fried rice(김치볶음밥) recipe’</title>
+   <link href="http://localhost:4000/description-of-geeks-things-korea-4/"/>
+   <id>http://localhost:4000/post04</id>
+   <updated>2019-12-24T00:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;Back in the days, I just found some post and that post was about ‘Kimchi fried rice recipe’. When I first read that post, I wasn’t interested at all because Kimchi fried rice is one of the easiest foods to cook and very familiar foods for Korean. However, when I...</content>
+ </entry>
 
  
 
