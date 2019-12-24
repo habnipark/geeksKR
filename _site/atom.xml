@@ -4,7 +4,7 @@
  <title>Geeks' things Korea</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-16T14:06:24+09:00</updated>
+ <updated>2019-12-24T15:43:34+09:00</updated>
  <author>
    <name>habni</name>
    <uri>https://geeksthingskorea.com</uri>
@@ -14,11 +14,21 @@
  
 
  <entry>
-   <title>Welcome to GEEKS' THINGS KOREA</title>
+   <title>You need to try this food in Korea. Sashimi ‘Hoe’</title>
+   <link href="http://localhost:4000/description-of-geeks-things-korea-3/"/>
+   <id>http://localhost:4000/post03</id>
+   <updated>2019-12-24T00:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;p&gt;As you might know, Korea is a peninsula so there are so many seafoods.&lt;/p&gt; &lt;p&gt;So it’s really easy to find some seafood(fish) markets and seafood restaurants as well.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/post/03/map.jpg&quot; alt=&quot;koreamap&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h4 id=&quot;fish-markets-in-korea&quot;&gt;Fish markets in Korea&lt;/h4&gt; &lt;p&gt;&lt;img src=&quot;/img/post/03/market.jpg&quot; alt=&quot;fishmarket&quot; /&gt;&lt;/p&gt; &lt;p&gt;Many foreigner tourists...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Let’s dig into a common ‘things to do’ in SEOUL</title>
    <link href="http://localhost:4000/description-of-geeks-things-korea-2/"/>
    <id>http://localhost:4000/post02</id>
    <updated>2019-12-16T00:00:00+09:00</updated>
-   <content type="html">&lt;h3 id=&quot;lets-dig-into-a-common-things-to-do-in-seoul&quot;&gt;Let’s dig into a common ‘things to do’ in SEOUL&lt;/h3&gt; &lt;p&gt;Since Seoul is the biggest city which is capital city in South Korea, so Seoul is always one of ‘must go places’ for foreigner tourists. so that’s why there are so many tourists in Seoul.&lt;/p&gt; &lt;p&gt;Here is a common...</content>
+   <content type="html">&lt;p&gt;Since Seoul is the biggest city which is capital city in South Korea, so Seoul is always one of ‘must go places’ for foreigner tourists. so that’s why there are so many tourists in Seoul.&lt;/p&gt; &lt;p&gt;Here is a common list of ‘things to do in Seoul’&lt;/p&gt; &lt;hr /&gt; &lt;h6 id=&quot;1explore-palaces--visit-cultural-villages&quot;&gt;1.Explore...</content>
  </entry>
 
  

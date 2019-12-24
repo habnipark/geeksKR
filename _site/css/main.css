@@ -1,5 +1,6 @@
 /* Emerald is a simple blog theme built for Jekyll. */
 /*- Base reset -*/
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap");
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
 html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img { margin: 0; padding: 0; border: 0; }
@@ -16,7 +17,7 @@ a { color: #000000; text-decoration: none; font-weight: 700; }
 a:hover, a:focus { color: black; }
 
 /*- Typography -*/
-body { font-family: 'Source Sans Pro', sans-serif; letter-spacing: 0.01em; }
+body { font-family: 'Noto Sans', sans-serif; letter-spacing: 0.01em; }
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
 p, ul, ol { font-size: 1em; /* 16px */ line-height: 1.5em; /* 24px/16px */ margin-bottom: 1.5em; /* 24px/16px */ }
