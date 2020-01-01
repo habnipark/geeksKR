@@ -4,12 +4,22 @@
  <title>Geeks' things Korea</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-24T22:29:20+09:00</updated>
+ <updated>2020-01-01T15:21:33+09:00</updated>
  <author>
    <name>habni</name>
    <uri>https://geeksthingskorea.com</uri>
    <email>habnipark@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Mikkeller, One of the best beer bars IN Garosu-gil sinsadong</title>
+   <link href="http://localhost:4000/description-of-geeks-things-korea-5/"/>
+   <id>http://localhost:4000/post05</id>
+   <updated>2020-01-01T00:00:00+09:00</updated>
+   <content type="html">&lt;h4 id=&quot;cool-fashion-street-garosu-gil&quot;&gt;Cool Fashion street Garosu-gil&lt;/h4&gt; &lt;p&gt;Have you ever heard of Garosu-gil? Garosu-gil is located in Sinsa-dong Gangnam Seoul.&lt;/p&gt; &lt;p&gt;For some reasons, Garosu-gil(street) district is definitely one of My foreign friends’ favorite places and according to them, they just really like looking around there like literally exploring there and doing some...</content>
+ </entry>
 
  
 
